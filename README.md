@@ -6,6 +6,7 @@ Here is the list of notebooks so far, more will come soon!
 
 1. [Color quantization with scikit-learn](notebooks/01_Color_quantization_with_sklearn.ipynb) - part of [How to add maps to OpendTect?](http://geophysicslabs.com/2016/12/15/how-to-add-maps-to-opendtect/)
 2. [Cropping and resampling a grid](notebooks/02_Cropping_and_resampling_grid.ipynb) - part of [How to add maps to OpendTect?](http://geophysicslabs.com/2016/12/15/how-to-add-maps-to-opendtect/)
+3. [How to convert a cross-section to SEGY?](notebooks/03_Convert cross-section to SEGY.ipynb) - part of [How to add cross-sections to OpendTect?](http://geophysicslabs.com/2017/02/12/how-to-add-cross-sections-to-opendtect/)
 
 ---
 
